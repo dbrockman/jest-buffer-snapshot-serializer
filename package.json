@@ -1,0 +1,18 @@
+{
+  "name": "jest-buffer-snapshot-serializer",
+  "version": "0.0.0",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "git@github.com:dbrockman/jest-buffer-snapshot-serializer.git",
+  "author": "David Brockman Smoliansky <david@springworks.se>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^23.4.1",
+    "prettier": "^1.13.7"
+  }
+}
