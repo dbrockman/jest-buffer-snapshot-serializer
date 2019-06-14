@@ -12,7 +12,7 @@
   "author": "David Brockman Smoliansky <david@springworks.se>",
   "license": "MIT",
   "devDependencies": {
-    "jest": "^23.4.1",
+    "jest": "^24.8.0",
     "prettier": "^1.13.7"
   }
 }
